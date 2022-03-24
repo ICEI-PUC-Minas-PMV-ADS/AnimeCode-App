@@ -1,23 +1,27 @@
-# TÍTULO DO PROJETO
+# AnimeCODE 🗾
 
-`CURSO`
+**Curso** <br>
+Análise e Desenvolvimento de Sistemas
 
-`DISCIPLINA`
+**Disciplina** <br>
+Desenvolvimento de uma Aplicação Móvel em um Ambiente de Negócio
 
-`SEMESTRE`
+**Semestre** <br>
+Terceiro Semestre
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+**Introdução** <br>
+O projeto consiste na criação de um aplicativo mobile que terá como objetivo permitir a criação de uma lista de animes.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Gustavo Alexandre
+* Igor Giovane
+* Lais Vitória
+* Lorena Andrade
 
 ## Orientador
 
-* Nome completo do professor 1
+* Mateus Curcino de Lima
 
 ## Instruções de utilização
 
