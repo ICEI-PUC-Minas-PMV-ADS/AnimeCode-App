@@ -1,46 +1,33 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+ Com o passar do tempo, vem-se falando cada dia mais no desenvolvimento da tecnologia. Paralelo a isso, podemos adentrar ao universo dos animes, que é definido como animação, segundo os japoneses, por lá qualquer desenho existente recebe esse nome. Já por aqui no Brasil, utilizamos esse termo de forma específica, para definir apenas animações que são, de fato, japonesas.
+ 
+  Atualmente os animes, estão conquistando um grande espaço como um produto midiático de grande aceitabilidade no que se refere ao seu consumo cultural no Ocidente, tanto em países europeus, Estados Unidos e aqui no Brasil. Com a popularização dos animes diversas pessoas em diversas faixas de idades são alcançadas e hoje esse tipo de conteúdo ocupa os principais meios de streaming como a Netflix e também possuem plataformas próprias para a exibição desse tipo de conteúdo como o Crunchyroll e o Funimation entre os mais utilizados.
 
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
+ O Otaku, que no japão se refere a aqueles que são fãs de algo, mas aqui no Brasil, esse termo é utilizado para denominar pessoas que tem verdadeira paixão por animes e mangás. Essas pessoas utilizam qualquer tempo livre para colocar seu anime favorito em dia ou maratonar aquela obra que um amigo sugeriu.
 
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
+ Em geral, os otakus assistem diversas obras simultaneamente e diante disso, facilmente acabam perdendo-se entre os vários episódios e temporadas que acompanham ao mesmo tempo, em diferentes plataformas de exibição, estes fatores unidos, podem levar ao usuário se perder e não conseguir acompanhar na ordem correta, os animes que está acompanhando.
 
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
-
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+ Seguindo a ideia de uma plataforma para que o usuário pudesse organizar o conteúdo que está assistindo, foi feito um levantamento para descobrir o que faltava para suprir a necessidade desse público, e concluimos que não existem plataformas brasileiras para atender esses usuários.
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
-
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
+ O objetivo do nosso trabalho é sanar essa dificuldade do usuário em se organizar e acompanhar o que vem assistindo, elaborando assim uma aplicação que promove uma interação entre usuário e plataforma para atender os diferentes tipos de gostos e demarcar qual anime o usuário está acompanhando, o episódio em que o usuário parou desde o último acesso a plataforma, e além disso, proporcionar a descoberta de novos animes para adicionar a sua lista.
  
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+Será possível visualizar as avaliações dos usuários sobre todos animes, criando de forma espontânea uma rede com curtos feedbacks dos usuários, como também visualizar sinopses sobre o anime, seu número de temporadas e episódios.
+
+Como objetivos específicos podemos ressaltar:
+* Cadastro de usuários com permissão para customizar sua plataforma de animes no qual esteja acompanhando
+* Liberdade ao usuário de avaliar determinada obra
+
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
+Entendemos que a causa tem raiz na dificuldade de acompanhar suas obras favoritas, e hoje no mercado não vemos uma ferramenta de controle exclusiva para animes, em português. 
 
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
-
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+A proposta  dessa aplicação  é  auxiliar o público que consome esse tipo de conteúdo a ter uma boa experiência no acompanhamento de seus animes prediletos, apresentando uma forma fácil e eficaz de se organizar em relação ao que é assistido e também descobrir novas opções de animes para assistir futuramente, auxiliado pelo feedback dos demais usuários.
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
-
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
-
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+Neste trabalho, o objetivo é alcançar os “Otakus”, um público bem amplo e com uma faixa-etária que vai de 13 a 50 anos de fãs que amam acompanhar os desenhos japoneses. A aplicação tem por objetivo  auxiliar pessoas que estão descobrindo e entrando no mundo dos animes, ou até mesmo aqueles que já são fãs, a acompanhar seus animes favoritos  proporcionando a maior facilidade possível.
