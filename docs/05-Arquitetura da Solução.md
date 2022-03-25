@@ -14,6 +14,8 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Diagrama de
 
 > - [Diagramas de Classes - Documentação da IBM](https://www.ibm.com/docs/pt-br/rational-soft-arch/9.6.1?topic=diagrams-class)
 > - [O que é um diagrama de classe UML? | Lucidchart](https://www.lucidchart.com/pages/pt/o-que-e-diagrama-de-classe-uml)
+> 
+![UML class](https://user-images.githubusercontent.com/78181968/160144712-5fec9ff0-5c2c-469d-a562-f401b65f9525.png)
 
 ## Modelo ER
 
@@ -22,6 +24,8 @@ O Modelo ER representa através de um diagrama como as entidades (coisas, objeto
 As referências abaixo irão auxiliá-lo na geração do artefato “Modelo ER”.
 
 > - [Como fazer um diagrama entidade relacionamento | Lucidchart](https://www.lucidchart.com/pages/pt/como-fazer-um-diagrama-entidade-relacionamento)
+> 
+![Modelo ER](https://user-images.githubusercontent.com/78181968/160144873-dcf7e84d-5194-4121-a0cd-8932f84a157b.png)
 
 ## Esquema Relacional
 
@@ -30,6 +34,8 @@ O Esquema Relacional corresponde à representação dos dados em tabelas juntame
 As referências abaixo irão auxiliá-lo na geração do artefato “Esquema Relacional”.
 
 > - [Criando um modelo relacional - Documentação da IBM](https://www.ibm.com/docs/pt-br/cognos-analytics/10.2.2?topic=designer-creating-relational-model)
+> 
+![Database ER diagram](https://user-images.githubusercontent.com/78181968/160144913-34f6bdad-fec6-49e4-9ed7-d07a2576a09b.png)
 
 ## Modelo Físico
 
