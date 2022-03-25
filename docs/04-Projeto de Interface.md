@@ -20,6 +20,9 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Diagramas d
 > **Links Úteis**:
 > - [Fluxograma online: seis sites para fazer gráfico sem instalar nada | Produtividade | TechTudo](https://www.techtudo.com.br/listas/2019/03/fluxograma-online-seis-sites-para-fazer-grafico-sem-instalar-nada.ghtml)
 
+![Flowchart](https://user-images.githubusercontent.com/78181968/160145370-6ffd95f3-e1b7-481b-b54d-8142dc0376db.png)
+
+
 ## Wireframes
 
 ![Exemplo de Wireframe](img/wireframe-example.png)
