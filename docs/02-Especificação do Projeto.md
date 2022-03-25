@@ -111,6 +111,24 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Diagrama de
 > - [Astah](https://astah.net/)
 > - [Diagrams](https://app.diagrams.net/)
 
+A seguir encontram-se os Casos de Uso e o Diagrama de Casos de Uso.
+
+| Caso de Uso| Descrição|
+|:-----------:|:---------:|
+|Cadastro de novo usuário|Cadastra um novo usuário, caso o usuário já esteja cadastrado no aplicativo, deve retornar a mensagem "Usuário já cadastrado" |
+|Fazer login|Recebe as credenciais já cadastradas do usuário e em seguida é encaminhado para Verificar Credenciais.|
+|Verificar Credenciais|Verifica e valida as credenciais do usuário. Caso estejam incorretas então o sistema irá exibir erro de login.|
+|Avaliar animes|Registra a avaliação feita pelo usuário em determinada obra.|
+|Marcar episódios/temporadas|Registra as informações sobre o progresso do usuário em determinada obra. Exemplo: episódios vistos e temporadas finalizadas.|
+|Pesquisar animes|Exibir os resultados de acordo com a busca do usuário.|
+|Criar sua lista|Salva as obras que o usuário já tenha assistido, está assistindo ou queira assistir, podendo adicionar ou excluir determinadas obras a qualquer momento.|
+
+|Ator|Descrição|
+|:-----------:|:---------:|
+|Usuário sem cadastro|Poderá ter acesso aos animes, sinopse e notas, porém não pode criar lista de animes.|
+|Usuário com cadastro|Poderá ter acesso aos animes, sinopse e notas, e poderá criar lista de animes.|
+|API|Irá fornecer as informações sobre os animes para o aplicativo.|
+
 ![Diagrama de caso de uso](https://user-images.githubusercontent.com/78181968/160131204-acc058e9-8050-4144-82a0-308b0481dd1f.png)
 
 
