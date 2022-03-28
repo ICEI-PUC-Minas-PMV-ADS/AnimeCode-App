@@ -47,6 +47,17 @@ Descreva aqui qual(is) tecnologias você vai usar para resolver o seu problema, 
 
 Apresente também uma figura explicando como as tecnologias estão relacionadas ou como uma interação do usuário com o sistema vai ser conduzida, por onde ela passa até retornar uma resposta ao usuário.
 
+
+
+Para o desenvolvimento da aplicação será utilizado:
+* Front-end >  JavaScript
+* Back-end > C#
+* Frameworks > React Native
+* IDE > Visual Studio 
+* APIs >
+* Banco de dados > SQLite 
+
+
 ## Hospedagem
 
 Explique como a hospedagem e o lançamento da plataforma foi feita.
