@@ -57,6 +57,9 @@ Usar o seguinte modelo:
 ![Indicadores de Desempenho](img/02-indic-desemp.png)
 Obs.: todas as informações para gerar os indicadores devem estar no diagrama de classe a ser apresentado a posteriori. 
 
+![IndicadorDesempenho](https://user-images.githubusercontent.com/78831493/160510539-6877a994-e2b6-47c3-ab7d-8b8b4d991861.png)
+
+
 ## Requisitos
 
 As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto. Para determinar a prioridade de requisitos, aplicar uma técnica de priorização de requisitos e detalhar como a técnica foi aplicada.
@@ -111,6 +114,27 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Diagrama de
 > - [Astah](https://astah.net/)
 > - [Diagrams](https://app.diagrams.net/)
 
+A seguir encontram-se os Casos de Uso e o Diagrama de Casos de Uso.
+
+| Caso de Uso| Descrição|
+|:-----------:|:---------:|
+|Cadastro de novo usuário|Cadastra um novo usuário, caso o usuário já esteja cadastrado no aplicativo, deve retornar a mensagem "Usuário já cadastrado" |
+|Fazer login|Recebe as credenciais já cadastradas do usuário e em seguida é encaminhado para Verificar Credenciais.|
+|Verificar Credenciais|Verifica e valida as credenciais do usuário. Caso estejam incorretas então o sistema irá exibir erro de login.|
+|Avaliar animes|Registra a avaliação feita pelo usuário em determinada obra.|
+|Marcar episódios/temporadas|Registra as informações sobre o progresso do usuário em determinada obra. Exemplo: episódios vistos e temporadas finalizadas.|
+|Pesquisar animes|Exibir os resultados de acordo com a busca do usuário.|
+|Criar sua lista|Salva as obras que o usuário já tenha assistido, está assistindo ou queira assistir, podendo adicionar ou excluir determinadas obras a qualquer momento.|
+
+|Ator|Descrição|
+|:-----------:|:---------:|
+|Usuário sem cadastro|Poderá ter acesso aos animes, sinopse e notas, porém não pode criar lista de animes.|
+|Usuário com cadastro|Poderá ter acesso aos animes, sinopse e notas, e poderá criar lista de animes.|
+|API|Irá fornecer as informações sobre os animes para o aplicativo.|
+
+![Diagrama de caso de uso](https://user-images.githubusercontent.com/78181968/160131204-acc058e9-8050-4144-82a0-308b0481dd1f.png)
+
+
 # Matriz de Rastreabilidade
 
 A matriz de rastreabilidade é uma ferramenta usada para facilitar a visualização dos relacionamento entre requisitos e outros artefatos ou objetos, permitindo a rastreabilidade entre os requisitos e os objetivos de negócio. 
@@ -124,6 +148,7 @@ A matriz deve contemplar todos os elementos relevantes que fazem parte do sistem
 > - [Verificação da rastreabilidade de requisitos usando a integração do IBM Rational RequisitePro e do IBM ClearQuest Test Manager](https://developer.ibm.com/br/tutorials/requirementstraceabilityverificationusingrrpandcctm/)
 > - [IBM Engineering Lifecycle Optimization – Publishing](https://www.ibm.com/br-pt/products/engineering-lifecycle-optimization/publishing/)
 
+![Matriz de rastreabilidade](https://user-images.githubusercontent.com/78181968/160131235-0ce512fc-5eed-46cb-b4ea-4241c63810a1.jpeg)
 
 # Gerenciamento de Projeto
 
@@ -145,8 +170,13 @@ O gerenciamento adequado de tarefas contribuirá para que o projeto alcance alto
 
 ![Simple Project Timeline](img/02-project-timeline.png)
 
+![Organograma](https://user-images.githubusercontent.com/78181968/160131308-fb793e22-14ef-43ab-8d8c-ab99408e82b4.jpg)
+
 ## Gestão de Orçamento
 
 O processo de determinar o orçamento do projeto é uma tarefa que depende, além dos produtos (saídas) dos processos anteriores do gerenciamento de custos, também de produtos oferecidos por outros processos de gerenciamento, como o escopo e o tempo.
 
 ![Orçamento](img/02-orcamento.png)
+
+![Orçamento](https://user-images.githubusercontent.com/78181968/160131287-e7bc6235-5e95-4b45-a6b6-99008391dd5b.jpg)
+
