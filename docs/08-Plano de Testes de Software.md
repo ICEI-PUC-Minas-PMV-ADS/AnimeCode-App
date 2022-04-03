@@ -1,19 +1,30 @@
 # Plano de Testes de Software
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>
 
-Apresente os cenários de testes utilizados na realização dos testes da sua aplicação. Escolha cenários de testes que demonstrem os requisitos sendo satisfeitos.
-
-Enumere quais cenários de testes foram selecionados para teste. Neste tópico o grupo deve detalhar quais funcionalidades avaliadas, o grupo de usuários que foi escolhido para participar do teste e as ferramentas utilizadas.
+ |`CASO DE TESTE`| CT01 Preenchimento no input de login e senha|
+ |:-----------:|:---------:|
+ |`REQUISITOS ASSOCIADOS`|RF-01	O aplicativo deve apresentar uma tela de login para autenticação de usuários cadastrados.|
+ |`OBJETIVO DO TESTE`| Verificar se o usuário consegue utilizar a tela de login para se autenticar|
+ |`MASSA DE TESTE`|Usuário teste cadastrado do sistema |
+ |`PASSOS`| * Acessar o app <br> * Digitar seu usuário no input de usuário <br> * Digitar sua senha no input de senha <br>|
+ |`CRITÉRIOS DE ÉXITO`| Permitir a entrada de dados nesta tela.|
+ <br>
  
-## Ferramentas de Testes (Opcional)
-
-Comente sobre as ferramentas de testes utilizadas.
+ |`CASO DE TESTE`| CT02 Preenchimento dos inputs do formulário |
+ |:-----------:|:---------:|
+ |`REQUISITOS ASSOCIADOS`|RF-02	O aplicativo deve apresentar um botão na tela de login para cadastro de novos usuários através de um formulário.|
+ |`OBJETIVO DO TESTE`| Verificar se o usuário consegue utilizar a tela de formulário pra se cadastrar|
+ |`MASSA DE TESTE`|Novo usuário |
+ |`PASSOS`| * Acessar o app <br> * clicar no link "Não é cadastrado? Cadastre-se" <br> * Abrir tela de formulário <br> * Preencher os inputs com as informações solicitadas|
+ |`CRITÉRIOS DE ÉXITO`| Permitir a entrada de dados nesta tela.|
+ <br>
  
-> **Links Úteis**:
-> - [IBM - Criação e Geração de Planos de Teste](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Práticas e Técnicas de Testes Ágeis](http://assiste.serpro.gov.br/serproagil/Apresenta/slides.pdf)
-> -  [Teste de Software: Conceitos e tipos de testes](https://blog.onedaytesting.com.br/teste-de-software/)
-> - [Criação e Geração de Planos de Teste de Software](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
-> - [UX Tools](https://uxdesign.cc/ux-user-research-and-user-testing-tools-2d339d379dc7)
+ |`CASO DE TESTE`| CT03 Identificar os elementos da tela home |
+ |:-----------:|:---------:|
+ |`REQUISITOS ASSOCIADOS`|RF-04	O aplicativo deverá apresentar uma tela home com imagem e nota do anime, para visualizar essa tela o usuário não precisa estar logado. Ao clicar na imagem do anime, ele irá exibir outra tela com as informações de sinopse e temporadas.|
+ |`OBJETIVO DO TESTE`| Verificar se os itens propostos no requisíto estão disponíveis na tela|
+ |`MASSA DE TESTE`|-|
+ |`PASSOS`| * Acessar o app <br> * abrir a tela home <br> * visualizar a exibição do banner do anime com a sua nota <br> * clicar no anime e visualizar as informações de sinopse e temporadas|
+ |`CRITÉRIOS DE ÉXITO`| Visualizar essas informações na tela.|
+ <br>
+ 
