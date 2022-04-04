@@ -1,10 +1,6 @@
 # Especificações do Projeto
 
-<span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
-
 Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
-
-Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
 
 ## Personas
 
@@ -28,34 +24,19 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 ## Modelagem do Processo de Negócio 
 
-### Análise da Situação Atual
-
-Apresente aqui os problemas existentes que viabilizam sua proposta. Apresente o modelo do sistema como ele funciona hoje. Caso sua proposta seja inovadora e não existam processos claramente definidos, apresente como as tarefas que o seu sistema pretende implementar são executadas atualmente, mesmo que não se utilize tecnologia computacional. 
-
 ### Descrição Geral da Proposta
 
-Apresente aqui uma descrição da sua proposta abordando seus limites e suas ligações com as estratégias e objetivos do negócio. Apresente aqui as oportunidades de melhorias.
+A proposta da aplicação é atender o usuário final que acompanha os animes e gosta de descobrir novas possibilidades para assistir. 
 
-### Processo 1 – NOME DO PROCESSO
+### Processo 1 – ADICIONAR ANIME A LISTA
 
-Apresente aqui o nome e as oportunidades de melhorias para o processo 1. Em seguida, apresente o modelo do processo 1, descrito no padrão BPMN. 
+![adicionarAnime](https://user-images.githubusercontent.com/78831493/161456349-bab51db7-dfe4-45b3-95cd-af7106838c37.svg)
 
-![Processo 1](img/02-bpmn-proc1.png)
+### Processo 2 – ACESSO AO APP
 
-### Processo 2 – NOME DO PROCESSO
-
-Apresente aqui o nome e as oportunidades de melhorias para o processo 2. Em seguida, apresente o modelo do processo 2, descrito no padrão BPMN.
-
-![Processo 2](img/02-bpmn-proc2.png)
+![loginApp](https://user-images.githubusercontent.com/78831493/161456380-ed34338a-e3cb-4c80-bdfc-67ecbfa22d42.svg)
 
 ## Indicadores de Desempenho
-
-Apresente aqui os principais indicadores de desempenho e algumas metas para o processo. Atenção: as informações necessárias para gerar os indicadores devem estar contempladas no diagrama de classe. Colocar no mínimo 5 indicadores. 
-
-Usar o seguinte modelo: 
-
-![Indicadores de Desempenho](img/02-indic-desemp.png)
-Obs.: todas as informações para gerar os indicadores devem estar no diagrama de classe a ser apresentado a posteriori. 
 
 ![IndicadorDesempenho](https://user-images.githubusercontent.com/78831493/160510539-6877a994-e2b6-47c3-ab7d-8b8b4d991861.png)
 
@@ -105,15 +86,6 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 O diagrama de casos de uso é o próximo passo após a elicitação de requisitos, que utiliza um modelo gráfico e uma tabela com as descrições sucintas dos casos de uso e dos atores. Ele contempla a fronteira do sistema e o detalhamento dos requisitos funcionais com a indicação dos atores, casos de uso e seus relacionamentos. 
 
-As referências abaixo irão auxiliá-lo na geração do artefato “Diagrama de Casos de Uso”.
-
-> **Links Úteis**:
-> - [Criando Casos de Uso](https://www.ibm.com/docs/pt-br/elm/6.0?topic=requirements-creating-use-cases)
-> - [Como Criar Diagrama de Caso de Uso: Tutorial Passo a Passo](https://gitmind.com/pt/fazer-diagrama-de-caso-uso.html/)
-> - [Lucidchart](https://www.lucidchart.com/)
-> - [Astah](https://astah.net/)
-> - [Diagrams](https://app.diagrams.net/)
-
 A seguir encontram-se os Casos de Uso e o Diagrama de Casos de Uso.
 
 | Caso de Uso| Descrição|
@@ -139,15 +111,6 @@ A seguir encontram-se os Casos de Uso e o Diagrama de Casos de Uso.
 
 A matriz de rastreabilidade é uma ferramenta usada para facilitar a visualização dos relacionamento entre requisitos e outros artefatos ou objetos, permitindo a rastreabilidade entre os requisitos e os objetivos de negócio. 
 
-A matriz deve contemplar todos os elementos relevantes que fazem parte do sistema, conforme a figura meramente ilustrativa apresentada a seguir.
-
-![Exemplo de matriz de rastreabilidade](img/02-matriz-rastreabilidade.png)
-
-> **Links Úteis**:
-> - [Artigo Engenharia de Software 13 - Rastreabilidade](https://www.devmedia.com.br/artigo-engenharia-de-software-13-rastreabilidade/12822/)
-> - [Verificação da rastreabilidade de requisitos usando a integração do IBM Rational RequisitePro e do IBM ClearQuest Test Manager](https://developer.ibm.com/br/tutorials/requirementstraceabilityverificationusingrrpandcctm/)
-> - [IBM Engineering Lifecycle Optimization – Publishing](https://www.ibm.com/br-pt/products/engineering-lifecycle-optimization/publishing/)
-
 ![Matriz de rastreabilidade](https://user-images.githubusercontent.com/78181968/160131235-0ce512fc-5eed-46cb-b4ea-4241c63810a1.jpeg)
 
 # Gerenciamento de Projeto
@@ -157,13 +120,9 @@ De acordo com o PMBoK v6 as dez áreas que constituem os pilares para gerenciar 
 ## Gerenciamento de Tempo
 
 Com diagramas bem organizados que permitem gerenciar o tempo nos projetos, o gerente de projetos agenda e coordena tarefas dentro de um projeto para estimar o tempo necessário de conclusão.
-
-![Diagrama de rede simplificado notação francesa (método francês)](img/02-diagrama-rede-simplificado.png)
-
 O gráfico de Gantt ou diagrama de Gantt também é uma ferramenta visual utilizada para controlar e gerenciar o cronograma de atividades de um projeto. Com ele, é possível listar tudo que precisa ser feito para colocar o projeto em prática, dividir em atividades e estimar o tempo necessário para executá-las.
 
-![Gráfico de Gantt](img/02-grafico-gantt.png)
-
+* PDF contendo Gráfico de Gantt: 
 [AnimeCODE-Gráfico de Gantt.pdf](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e3-proj-mov-t3-animecode/files/8380639/AnimeCODE-Grafico.de.Gantt.pdf)
 
 
@@ -171,15 +130,11 @@ O gráfico de Gantt ou diagrama de Gantt também é uma ferramenta visual utiliz
 
 O gerenciamento adequado de tarefas contribuirá para que o projeto alcance altos níveis de produtividade. Por isso, é fundamental que ocorra a gestão de tarefas e de pessoas, de modo que os times envolvidos no projeto possam ser facilmente gerenciados. 
 
-![Simple Project Timeline](img/02-project-timeline.png)
-
 ![Organograma](https://user-images.githubusercontent.com/78181968/160131308-fb793e22-14ef-43ab-8d8c-ab99408e82b4.jpg)
 
 ## Gestão de Orçamento
 
 O processo de determinar o orçamento do projeto é uma tarefa que depende, além dos produtos (saídas) dos processos anteriores do gerenciamento de custos, também de produtos oferecidos por outros processos de gerenciamento, como o escopo e o tempo.
-
-![Orçamento](img/02-orcamento.png)
 
 ![Orçamento](https://user-images.githubusercontent.com/78181968/160131287-e7bc6235-5e95-4b45-a6b6-99008391dd5b.jpg)
 
