@@ -67,6 +67,6 @@ Para o desenvolvimento da aplicação, serão utilizadas as seguintes plataforma
 |Desenvolvimento do código|VS code||
 |Repositório de código fonte|GitHub||
 |Documentos do projeto|Google Drive||
-|Projeto de Interface|MarvelApp||
-|Wireframes|Figma||
+|Projeto de Interface|Canva Pro|
+|Wireframes|Marvel App||
 |Gerenciamento do Projeto|GitHub||
