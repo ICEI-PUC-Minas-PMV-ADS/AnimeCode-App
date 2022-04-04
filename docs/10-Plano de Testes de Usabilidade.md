@@ -1,11 +1,29 @@
 # Plano de Testes de Usabilidade
 
-O teste de usabilidade permite avaliar a qualidade da interface com o usuário da aplicação interativa. O Plano de Testes de Software é gerado a partir da especificação do sistema e consiste em casos de testes que deverão ser executados quando a implementação estiver parcial ou totalmente pronta.
+Para a realização dos testes de usabilidade, elencamos 3 objetivos para validar com o usuário. Após os testes, será aplicado o questionário System Usability Scale (SUS) para levantarmos os dados quantitativos desta ação.   
 
-As referências abaixo irão auxiliá-lo na geração do artefato "Plano de Testes de Usabilidade".
 
-> **Links Úteis**:
-> - [Teste De Usabilidade: O Que É e Como Fazer Passo a Passo (neilpatel.com)](https://neilpatel.com/br/blog/teste-de-usabilidade/)
-> - [Teste de usabilidade: tudo o que você precisa saber! | by Jon Vieira | Aela.io | Medium](https://medium.com/aela/teste-de-usabilidade-o-que-voc%C3%AA-precisa-saber-39a36343d9a6/)
-> - [Planejando testes de usabilidade: o que (e o que não) fazer | iMasters](https://imasters.com.br/design-ux/planejando-testes-de-usabilidade-o-que-e-o-que-nao-fazer/)
-> - [Ferramentas de Testes de Usabilidade](https://www.usability.gov/how-to-and-tools/resources/templates.html)
+### Modelo Teste de usabilidade
+
+Objetivos: 
+1. O administador irá cadastrar um anime.
+2. O usuário irá criar um cadastro, realizar login, abrir a página de informações de um anime e acessar seu perfil. 
+
+
+
+|Participante||
+|:----------:|:----------:|
+|Tempo||
+
+
+Legenda: <br>
+:white_check_mark: Concluiu sem auxílio <br>
+:warning: Concluiu com auxílio <br>
+:x: Não concluiu 
+
+### Modelo System Usability Scale (SUS)
+
+Com objetivo de avaliar a interação do usuário com o sistema e se este corresponde as suas expectativas, será aplicado o SUS. 
+Este questionário possui 10 questões fechadas que estarão disponíveis através do Google Forms após o término da interação do usuário com o sistema. 
+
+![SUS ](https://user-images.githubusercontent.com/78181968/135937247-db44beb3-a0fe-42aa-b6ac-b7f7c9debbf0.png)
