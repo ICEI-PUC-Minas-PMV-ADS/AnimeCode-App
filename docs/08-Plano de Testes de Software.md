@@ -9,6 +9,7 @@
  |`CRITÉRIOS DE ÉXITO`| Emitir alerta de cadastrado realizado com sucesso e direcionar o usuário pra tela inicial|
  
  <br>
+ 
  |`CASO DE TESTE`| CT02 Bloqueio de cadastro, para usuário já cadastrado no sistema|
  |:-----------:|:---------:|
  |`REQUISITOS ASSOCIADOS`|RF-01	O aplicativo deve apresentar uma tela de login para autenticação de usuários cadastrados.|
@@ -41,7 +42,7 @@
  
  |`CASO DE TESTE`| CT04 Alteração de senha de usuário já cadastrado|
  |:-----------:|:---------:|
- |`REQUISITOS ASSOCIADOS`|RF-08	O aplicativo deverá permitir que o usuário já cadastrado, seja capaz de alterar a sua senha.|
+ |`REQUISITOS ASSOCIADOS`|RF-09 O aplicativo deverá permitir o cadastro de um e-mail por usuário|
  |`OBJETIVO DO TESTE`| Verificar se o usuário consegue recadastrar uma nova senha para se autenticar|
  |`MASSA DE TESTE`|Usuário cadastrado no sistema |
  |`PASSOS`| ?|
