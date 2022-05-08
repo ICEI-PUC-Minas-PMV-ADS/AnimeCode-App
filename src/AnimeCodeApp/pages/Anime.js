@@ -7,7 +7,7 @@ import { useNavigation } from '@react-navigation/native';
 
 import Container from '../components/Container';
 import Login from '../pages/Login';
-import Cadastro from '../pages/Cadastro';
+import Register from '../pages/Register';
 
 import Input from '../components/Input';
 

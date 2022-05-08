@@ -7,7 +7,7 @@ const Botao = () => {
   const [stringButton, setStringButton] = useState("")
 
   return (
-    <Button mode="contained" onPress={() => console.log("Pressed") }>
+    <Button mode="contained">
       {"Entrar"}
     </Button>
   );

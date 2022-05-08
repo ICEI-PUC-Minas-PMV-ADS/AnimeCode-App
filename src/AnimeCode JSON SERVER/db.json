@@ -1,0 +1,11 @@
+{
+  "users": [
+    {
+      "email": "igor@gmail.com",
+      "password": "$2a$10$EqLBW19hB.rz7awNfptEmea57uWn7lF6fRB69W/X5iEE6d1ACsItC",
+      "name": "igor",
+      "age": "07/01/2002",
+      "id": 1
+    }
+  ]
+}

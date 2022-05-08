@@ -7,10 +7,12 @@ import { useNavigation } from '@react-navigation/native';
 
 import Container from '../components/Container';
 import Login from '../pages/Login';
-import Cadastro from '../pages/Cadastro';
+import Register from '../pages/Register';
 
 import Inicio from '../pages/Inicio';
-import Busca from '../pages/Busca';
+import Search from '../pages/Search';
+
+import {useUser} from '../context/UserContext'
 
 const DATA = [
   {
@@ -29,23 +31,25 @@ const Item = ({ title }) => (
   </View>
 );
 
-const Perfil = () => {
+const Profile = () => {
   const renderItem = ({ item }) => <Item title={item.title} />;
 
   const navigation = useNavigation();
 
   const [index, setIndex] = useState(0);
 
+  const {name} = useUser();
+
   const [routes] = useState([
     { key: 'inicio', title: 'Inicio', icon: 'gas-station' },
-    { key: 'busca', title: 'Busca', icon: 'calculator' },
-    { key: 'perfil', title: 'Perfil', icon: 'calculator' },
+    { key: 'search', title: 'Search', icon: 'calculator' },
+    { key: 'profile', title: 'Profile', icon: 'calculator' },
   ]);
 
   const renderScene = BottomNavigation.SceneMap({
-    perfil: Perfil,
+    profile: Profile,
     inicio: Inicio,
-    busca: Busca,
+    search: Search,
   });
 
   return (
@@ -55,7 +59,7 @@ const Perfil = () => {
       </View>
 
       <View style={styles.viewText}>
-        <Text style={styles.textNome}>{'igorG7'}</Text>
+        <Text style={styles.textNome}>{name}</Text>
 
         <Text style={styles.textLista}>{'Esta é sua lista de animes!'}</Text>
 
@@ -128,4 +132,4 @@ const styles = StyleSheet.create({
   },
 });
 
-export default Perfil;
+export default Profile;

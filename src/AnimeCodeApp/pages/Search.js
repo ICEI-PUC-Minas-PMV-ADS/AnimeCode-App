@@ -7,7 +7,7 @@ import { useNavigation } from '@react-navigation/native';
 
 import Container from '../components/Container';
 import Login from '../pages/Login';
-import Cadastro from '../pages/Cadastro';
+import Register from '../pages/Register';
 
 import Input from '../components/Input';
 
@@ -44,7 +44,7 @@ const Item = ({ title }) => (
   </View>
 );
 
-const Busca = () => {
+const Search = () => {
   const renderItem = ({ item }) => <Item title={item.title} />;
 
   const navigation = useNavigation();
@@ -83,4 +83,4 @@ const styles = StyleSheet.create({
   },
 });
 
-export default Busca;
+export default Search;
