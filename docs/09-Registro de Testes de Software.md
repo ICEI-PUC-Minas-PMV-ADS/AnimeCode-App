@@ -3,9 +3,14 @@
 |`CASO DE TESTE`| CT01 Cadastro de novos usuários através do formulário |
 |:-----------:|:---------:|
 
+https://user-images.githubusercontent.com/78831493/167317150-4c705245-3995-4402-b295-dfdd78b5529f.mp4
+
 |`CASO DE TESTE`| CT02 Bloqueio de cadastro, para usuário já cadastrado no sistema|
 |:-----------:|:---------:|
  
+https://user-images.githubusercontent.com/78831493/167317328-b6e166cd-7991-4050-bbd2-73ce9a54ec31.mp4
+
+
 |`CASO DE TESTE`| CT03 Autenticação (login) de usuário cadastrado no sistema|
 |:-----------:|:---------:|
 
