@@ -14,7 +14,8 @@ https://user-images.githubusercontent.com/78831493/167317328-b6e166cd-7991-4050-
 |`CASO DE TESTE`| CT03 Autenticação (login) de usuário cadastrado no sistema|
 |:-----------:|:---------:|
 
-https://user-images.githubusercontent.com/78831493/167049607-84a3f031-a4c0-4cd7-8d69-7dbb223a3174.MP4
+https://user-images.githubusercontent.com/78181968/167319184-4ab37e41-fa77-4b9d-afeb-4400873ec4b0.mp4
+
 
 |`CASO DE TESTE`| CT04 Bloqueio de acesso, erro de usuário ou senha cadastrado no sistema|
 |:-----------:|:---------:|
