@@ -15,8 +15,8 @@
  |`REQUISITOS ASSOCIADOS`|RF-01	O aplicativo deve apresentar uma tela de login para autenticação de usuários cadastrados.|
  |`OBJETIVO DO TESTE`| Verificar se o usuário consegue utilizar a tela de login para se autenticar|
  |`MASSA DE TESTE`|Usuário teste cadastrado do sistema |
- |`PASSOS`| * Acessar o app <br> * Digitar seu usuário no input de usuário <br> * Digitar sua senha no input de senha <br>|
- |`CRITÉRIOS DE ÉXITO`| Emitir alerta de login realizado com sucesso.|
+ |`PASSOS`| * Acessar o app <br> * Digitar seu usuário no input de usuário <br> * Digitar sua senha incorreta <br>|
+ |`CRITÉRIOS DE ÉXITO`| Emitir alerta de erro.|
  
  <br>
  
@@ -36,11 +36,11 @@
  |`OBJETIVO DO TESTE`| Verificar se o usuário consegue utilizar a tela de login para se autenticar|
  |`MASSA DE TESTE`|Usuário teste cadastrado do sistema |
  |`PASSOS`| * Acessar o app <br> * Digitar seu usuário no input de usuário <br> * Digitar sua senha no input de senha <br>|
- |`CRITÉRIOS DE ÉXITO`| Emitir alerta de login realizado com sucesso.|
+ |`CRITÉRIOS DE ÉXITO`| Emitir alerta de erro ao realizar login.|
  
  <br>
  
- |`CASO DE TESTE`| CT04 Alteração de senha de usuário já cadastrado|
+ |`CASO DE TESTE`| CT05 Alteração de senha de usuário já cadastrado|
  |:-----------:|:---------:|
  |`REQUISITOS ASSOCIADOS`|RF-09 O aplicativo deverá permitir o cadastro de um e-mail por usuário|
  |`OBJETIVO DO TESTE`| Verificar se o usuário consegue recadastrar uma nova senha para se autenticar|
@@ -50,7 +50,7 @@
  
  <br>
  
- |`CASO DE TESTE`| CT05 Acesso a "Minha Lista" para usuário não cadastrado no sistema |
+ |`CASO DE TESTE`| CT06 Acesso a "Minha Lista" para usuário não cadastrado no sistema |
  |:-----------:|:---------:|
  |`REQUISITOS ASSOCIADOS`|RF-03	O acesso a lista de animes será permitido apenas, a usuário previamente cadastrados no aplicativo.|
  |`OBJETIVO DO TESTE`| Verificar se o usuário consegue acessar a lista de anime sem cadastro|
@@ -60,7 +60,7 @@
  
  <br>
  
-  |`CASO DE TESTE`| CT05 Exibir os animes na tela home |
+  |`CASO DE TESTE`| CT07- Exibir os animes na tela home |
  |:-----------:|:---------:|
  |`REQUISITOS ASSOCIADOS`|RF-04	O aplicativo deverá apresentar uma tela home com imagem e nota do anime, para visualizar essa tela o usuário não precisa estar logado. Ao clicar na imagem do anime, ele irá exibir outra tela com as informações de sinopse e temporadas.|
  |`OBJETIVO DO TESTE`| Verificar se os itens propostos no requisíto estão disponíveis na tela|
@@ -70,14 +70,4 @@
 
  
  <br>
- 
- |`CASO DE TESTE`| CT05 Exibir os animes na tela home |
- |:-----------:|:---------:|
- |`REQUISITOS ASSOCIADOS`|RF-04	O aplicativo deverá apresentar uma tela home com imagem e nota do anime, para visualizar essa tela o usuário não precisa estar logado. Ao clicar na imagem do anime, ele irá exibir outra tela com as informações de sinopse e temporadas.|
- |`OBJETIVO DO TESTE`| Verificar se os itens propostos no requisíto estão disponíveis na tela|
- |`MASSA DE TESTE`|-|
- |`PASSOS`| * Acessar o app <br> * abrir a tela home <br> * visualizar a exibição do banner do anime com a sua nota <br> * clicar no anime e visualizar as informações de sinopse e temporadas|
- |`CRITÉRIOS DE ÉXITO`| Visualizar essas informações na tela.|
- 
- <br>
- 
+
