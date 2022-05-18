@@ -60,6 +60,8 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-09|O aplicativo deverá permitir o cadastro de um e-mail por usuário|`Alta`|
 |RF-10|O aplicativo deverá possibilitar um mecanismo de busca.|`MÉDIA`|
 |RF-11|O aplicativo deve possibilitar a avaliação de animes, por um usuário previamente cadastrado.|`BAIXO`|
+|RF-12|O aplicativo deve retornar da API a sinopse de cada anime|`BAIXO`|
+|RF-13|O aplicativo deve retornar da API a nota de cada anime|`BAIXO`|
 
 
 ### Requisitos não Funcionais
