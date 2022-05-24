@@ -55,7 +55,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-04| O aplicativo deverá apresentar uma tela home com imagem e nota do anime, para visualizar essa tela o usuário não precisa estar logado. Ao clicar na imagem do anime, ele irá exibir outra tela com as informações de sinopse e temporadas.|`ALTA`|
 |RF-05| O usuário poderá criar uma lista pessoal com os animes que ele desejar. Esses animes serão separados por status, sendo eles "assitidos", "em andamento" e "assitir depois".| `ALTA` |
 |RF-06| O usuário, quando previamente cadastrado, poderá marcar a temporada e o episódio em que ele está de um determinado anime.| `ALTA` |
-|RF-07|O aplicativo deverá consumir de uma biblioteca local as informações referentes ao anime.| `ALTA` |
+|RF-07|O aplicativo deverá consumir de uma API as informações referentes ao anime.| `ALTA` |
 |RF-08|O aplicativo deverá permitir que o usuário já cadastrado, seja capaz de alterar a sua senha | `ALTA`|
 |RF-09|O aplicativo deverá permitir o cadastro de um e-mail por usuário|`ALTA`|
 |RF-10|O aplicativo deverá possibilitar um mecanismo de busca.|`MÉDIA`|
