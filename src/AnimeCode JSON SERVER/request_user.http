@@ -12,3 +12,25 @@ Content-Type: application/json
     "email": "igorgiovane67@gmail.com",
     "password": "123igor"
 }
+
+# ANIMES
+
+### Retornar animes do banco
+GET http://localhost:3000/animes
+
+### Inserir animes no banco
+POST http://localhost:3000/animes
+Content-Type: application/json
+
+{
+    "name": "Kimetsu no Yaiba",
+    "seasons": 2,
+    "episodes": 37,
+    "synopsis": "texto",
+    "image_url": "url",
+    "small_image_url": "url",
+    "genres": "texto"
+}
+
+### Deleta Anime
+DELETE http://localhost:3000/animes/1

@@ -7,5 +7,27 @@
       "age": "07/01/2002",
       "id": 1
     }
+  ],
+  "animes": [
+    {
+      "name": "Kimetsu no Yaiba",
+      "seasons": 2,
+      "episodes": 37,
+      "synopsis": "texto",
+      "image_url": "url",
+      "small_image_url": "url",
+      "genres": "texto",
+      "id": 1
+    },
+    {
+      "name": "Fullmetal Alchemist",
+      "seasons": 1,
+      "episodes": 56,
+      "synopsis": "texto",
+      "image_url": "url",
+      "small_image_url": "url",
+      "genres": "texto",
+      "id": 2
+    }
   ]
 }
