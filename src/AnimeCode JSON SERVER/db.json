@@ -8,24 +8,27 @@
       "id": 1
     }
   ],
+
+  
+
   "animes": [
     {
       "name": "Kimetsu no Yaiba",
-      "seasons": 2,
-      "episodes": 37,
+      "seasons": 1,
+      "episodes": 26,
       "synopsis": "texto",
-      "image_url": "url",
-      "small_image_url": "url",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1286/99889.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1286/99889t.jpg",
       "genres": "texto",
       "id": 1
     },
     {
       "name": "Fullmetal Alchemist",
       "seasons": 1,
-      "episodes": 56,
+      "episodes": 51,
       "synopsis": "texto",
-      "image_url": "url",
-      "small_image_url": "url",
+      "image_url": "https://cdn.myanimelist.net/images/anime/10/75815.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/10/75815t.jpg",
       "genres": "texto",
       "id": 2
     }

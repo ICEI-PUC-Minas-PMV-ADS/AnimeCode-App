@@ -32,5 +32,33 @@ Content-Type: application/json
     "genres": "texto"
 }
 
+###
+POST http://localhost:3000/animes
+Content-Type: application/json
+
+{
+    "name": "Fullmetal Alchemist",
+    "seasons": 1,
+    "episodes": 56,
+    "synopsis": "texto",
+    "image_url": "url",
+    "small_image_url": "url",
+    "genres": "texto"
+}
+
+###
+PUT http://localhost:3000/animes/2
+Content-Type: application/json
+
+{
+    "name": "Fullmetal Alchemist",
+    "seasons": 1,
+    "episodes": 51,
+    "synopsis": "texto",
+    "image_url": "https://cdn.myanimelist.net/images/anime/10/75815.jpg",
+    "small_image_url": "https://cdn.myanimelist.net/images/anime/10/75815t.jpg",
+    "genres": "texto"
+}
+
 ### Deleta Anime
 DELETE http://localhost:3000/animes/1
