@@ -8,9 +8,6 @@
       "id": 1
     }
   ],
-
-  
-
   "animes": [
     {
       "name": "Kimetsu no Yaiba",
@@ -31,6 +28,76 @@
       "small_image_url": "https://cdn.myanimelist.net/images/anime/10/75815t.jpg",
       "genres": "texto",
       "id": 2
+    },
+    {
+      "name": "Jujutso Kaisen",
+      "seasons": 1,
+      "episodes": 24,
+      "synopsis": "Sofrimento, arrependimento, vergonha: os sentimentos negativos dos humanos tornam-se Maldições, causando terríveis acidentes que podem levar até mesmo à morte. E pra piorar, Maldições só podem ser exorcizadas por outras Maldições. Certo dia, para salvar amigos que estavam sendo atacados por Maldições, Yuji Itadori engole o dedo do Ryomen-Sukuna, absorvendo sua Maldição. Ele então decide se matricular no Colégio Técnico de Feitiçaria de Tóquio, uma organização que combate as Maldições... e assim começa a heróica lenda do garoto que tornou-se uma Maldição para exorcizar uma Maldição.",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1171/109222.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1171/109222t.jpg",
+      "genres": "Exorcismo, terror",
+      "id": 3
+    },
+    {
+      "name": "Spy x Family",
+      "seasons": 1,
+      "episodes": 9,
+      "synopsis": "É uma série japonesa de mangá shōnen escrita e ilustrada por Tatsuya Endo. A história segue a vida de Twilight, um espião que precisa 'formar uma família' de forma repentina para executar uma missão.",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1441/122795.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1441/122795t.jpg",
+      "genres": "Ação, Comédia, Romance",
+      "id": 4
+    },
+    {
+      "name": "Sword Art Online",
+      "seasons": 4,
+      "episodes": 97,
+      "synopsis": "Kazuto 'Kirito' Kirigaya é um jovem corajoso e apaixonado pelo mundo dos games. Quando surge um jogo de realidade virtual chamado Sword Art Online, capaz de afetar para sempre a vida de seus jogadores, ele decide usar suas habilidades para vencer todas as fases do programa.",
+      "image_url": "https://cdn.myanimelist.net/images/anime/11/39717.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/11/39717t.jpg",
+      "genres": "Aventura, Ficção Científica",
+      "id": 5
+    },
+    {
+      "name": "Akame ga kill",
+      "seasons": 1,
+      "episodes": 24,
+      "synopsis": "É uma série de mangá shonen Japonês escrita por Takahiro e ilustrada por Tetsuya Tashiro. Iniciou sua serialização na Gangan Joker da Square Enix em Março de 2010. A história se foca em Tatsumi, um jovem aldeão que viajou para a capital em busca de dinheiro para a sua vila e descobre uma forte corrupção naquela área. Uma assassina (Leone) do grupo Night Raid recruta o jovem garoto para ajudá-los na luta contra o Império para dar fim a corrupção. Juntos com o casal Rillary e Lubbock derrotando criaturas perigosas até um deles morrer.",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1429/95946.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1429/95946t.jpg",
+      "genres": "Aventura, Ação",
+      "id": 6
+    },
+    {
+      "name": "Black Clover",
+      "seasons": 4,
+      "episodes": 170,
+      "synopsis": "é uma série de mangá adolescente do tipo shonen e fantasia japonês, escrita e ilustrada por Yūki Tabata, publicada na revista Weekly Shōnen Jump da editora japonesa Shueisha, e licenciada e publicada no Brasil pela editora Panini Group. A história se centra em um jovem chamado Asta, nascido sem poder mágico no reino de Clover (algo inédito onde todos conseguem usá-la), mas com sua ambição, habilidades recém-descobertas e amigos, pretende torna-se o próximo Rei Mago.",
+      "image_url": "https://cdn.myanimelist.net/images/anime/2/88336.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/2/88336t.jpg",
+      "genres": "Ficção, Aventura",
+      "id": 7
+    },
+    {
+      "name": "Blue Exorcist",
+      "seasons": 2,
+      "episodes": 37,
+      "synopsis": "A série segue sobre um adolescente chamado Rin Okumura que descobre que é filho de Satanás e está determinado a se tornar um exorcista, a fim de derrotá-lo depois da morte de seu tutor, o Padre Fujimoto.",
+      "image_url": "https://cdn.myanimelist.net/images/anime/2/88336.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/10/75195.jpg",
+      "genres": "Terror, Drama, Ação, Fantasia Sombria",
+      "id": 8
+    },
+    {
+      "name": "DEATH NOTE",
+      "seasons": 1,
+      "episodes": 37,
+      "synopsis": "Um estudante de repente encontra um caderno que caiu do céu. Trata-se do Death Note, que permite ao seu portador matar qualquer pessoa a partir da mera anotação do nome do alvo em uma de suas páginas. Sob a influência de Ruyk, dono do caderno, ele passa a usá-lo para eliminar criminosos e pessoas que escaparam da justiça. A súbita onda de assassinatos faz com que ele seja endeusado por muitos, que o apelidam de Kira, mas também atrai a atenção de um enigmático e brilhante detetive, chamado L.",
+      "image_url": "https://cdn.myanimelist.net/images/anime/9/9453.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/9/9453t.jpg",
+      "genres": "Mistério, Suspense",
+      "id": 9
     }
   ]
 }

@@ -23,13 +23,13 @@ POST http://localhost:3000/animes
 Content-Type: application/json
 
 {
-    "name": "Kimetsu no Yaiba",
-    "seasons": 2,
-    "episodes": 37,
-    "synopsis": "texto",
-    "image_url": "url",
-    "small_image_url": "url",
-    "genres": "texto"
+    "name": "Jujutso Kaisen",
+    "seasons": 1,
+    "episodes": 24,
+    "synopsis": "Sofrimento, arrependimento, vergonha: os sentimentos negativos dos humanos tornam-se Maldições, causando terríveis acidentes que podem levar até mesmo à morte. E pra piorar, Maldições só podem ser exorcizadas por outras Maldições. Certo dia, para salvar amigos que estavam sendo atacados por Maldições, Yuji Itadori engole o dedo do Ryomen-Sukuna, absorvendo sua Maldição. Ele então decide se matricular no Colégio Técnico de Feitiçaria de Tóquio, uma organização que combate as Maldições... e assim começa a heróica lenda do garoto que tornou-se uma Maldição para exorcizar uma Maldição.",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1171/109222.jpg",
+    "small_image_url": "https://cdn.myanimelist.net/images/anime/1171/109222t.jpg",
+    "genres": "Exorcismo, terror"
 }
 
 ###
@@ -37,13 +37,13 @@ POST http://localhost:3000/animes
 Content-Type: application/json
 
 {
-    "name": "Fullmetal Alchemist",
+    "name": "DEATH NOTE",
     "seasons": 1,
-    "episodes": 56,
-    "synopsis": "texto",
-    "image_url": "url",
-    "small_image_url": "url",
-    "genres": "texto"
+    "episodes": 37,
+    "synopsis": "Um estudante de repente encontra um caderno que caiu do céu. Trata-se do Death Note, que permite ao seu portador matar qualquer pessoa a partir da mera anotação do nome do alvo em uma de suas páginas. Sob a influência de Ruyk, dono do caderno, ele passa a usá-lo para eliminar criminosos e pessoas que escaparam da justiça. A súbita onda de assassinatos faz com que ele seja endeusado por muitos, que o apelidam de Kira, mas também atrai a atenção de um enigmático e brilhante detetive, chamado L.",
+    "image_url": "https://cdn.myanimelist.net/images/anime/9/9453.jpg",
+    "small_image_url": "https://cdn.myanimelist.net/images/anime/9/9453t.jpg",
+    "genres": "Mistério, Suspense"
 }
 
 ###
