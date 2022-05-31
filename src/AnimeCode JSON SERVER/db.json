@@ -98,6 +98,106 @@
       "small_image_url": "https://cdn.myanimelist.net/images/anime/9/9453t.jpg",
       "genres": "Mistério, Suspense",
       "id": 9
+    },
+    {
+      "name": "Dragon ball z",
+      "seasons": 9,
+      "episodes": 639,
+      "synopsis": "Criada por Akira Toryiama, a franquia conta a história de Son Goku, um guerreiro que descobre ser parte de um legado de poderosos conquistadores alienígenas - e passa a defender seu planeta adotivo, a Terra, de outros seres igualmente superfortes e capazes de feitos descomunais.",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1607/117271.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1607/117271t.jpg",
+      "genres": "Ação, Comédia, Aventura, Artes Marciais, Suspense ",
+      "id": 10
+    },
+    {
+      "name": "Fullmetal Alchemist Brotherhood",
+      "seasons": 1,
+      "episodes": 64,
+      "synopsis": "Depois que um experimento de alquimia horrível dá errado na casa de Elric, os irmãos Edward e Alphonse são deixados em uma nova realidade catastrófica. Ignorando o princípio alquímico que proíbe a transmutação humana, os meninos tentaram trazer sua mãe recentemente falecida de volta à vida. Em vez disso, eles sofreram uma perda pessoal brutal: o corpo de Alphonse se desintegrou enquanto Edward perdeu uma perna e, em seguida, sacrificou um braço para manter a alma de Alphonse no reino físico, prendendo-o a uma enorme armadura. Os irmãos são resgatados por sua vizinha Pinako Rockbell e sua neta Winry. Conhecido como um prodígio da engenharia biomecânica, Winry cria membros protéticos para Edward utilizando 'automail', um metal resistente e versátil usado em robôs e armaduras de combate. Após anos de treinamento, os irmãos Elric partiram em uma missão para restaurar seus corpos localizando a Pedra Filosofal - uma joia poderosa que permite a um alquimista desafiar as leis tradicionais da Troca Equivalente. Enquanto Edward se torna um alquimista infame e ganha o apelido de 'Fullmetal', a jornada dos meninos os envolve em uma conspiração crescente que ameaça o destino do mundo.",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1223/96541.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1223/96541t.jpg",
+      "genres": "Ação, Aventura, Comédia, Drama, Fantasia",
+      "id": 11
+    },
+    {
+      "name": "Naruto",
+      "seasons": 9,
+      "episodes": 211,
+      "synopsis": "Naruto é um jovem órfão habitante da Vila da Folha que sonha se tornar o quinto Hokage, o maior guerreiro e governante da vila. Ao se graduar como ninja, descobre que tem um demônio raposa selado dentro de si.",
+      "image_url": "https://cdn.myanimelist.net/images/anime/13/17405.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/13/17405t.jpg",
+      "genres": "Ação, Aventura, Comédia, Drama, Fantasia",
+      "id": 12
+    },
+    {
+      "name": "Naruto Shippuden",
+      "seasons": 21,
+      "episodes": 500,
+      "synopsis": "Há muito tempo, um espírito poderoso levou o mundo à beira da destruição. Naruto é incumbido de proteger Shion, uma sacerdotisa da Terra dos Ogros que é perseguida por um espírito, e ajudá-la a salvar o mundo.",
+      "image_url": "https://cdn.myanimelist.net/images/anime/5/17407.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/5/17407t.jpg",
+      "genres": "Ação, Aventura, Comédia, Drama, Fantasia",
+      "id": 13
+    },
+    {
+      "name": "Tokyo Revengers",
+      "seasons": 1,
+      "episodes": 24,
+      "synopsis": "Tokyo Revengers gira em torno de Takemichi Hanagaki, um homem de 26 anos mal sucedido na vida em todos os âmbitos, desde o profissional à relações amorosas. Um certo dia, ao assistir um jornal na TV, Takemichi descobre que sua primeira namorada havia sido morta num incidente que envolvia gangues de Tokyo. Essa notícia mexeu bastante com o rapaz, que ficou pensativo sobre a perda de seu primeiro e único amor. Ao entrar numa estação de metrô, Takemichi é empurrado aos trilhos e quando estava prestes a ser atropelado algo surpreendente acontece: ele viaja 12 anos no passado, voltando para a época de escola quando ainda namorava Hina.",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1839/122012.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1839/122012t.jpg",
+      "genres": "Ação, Drama",
+      "id": 14
+    },
+    {
+      "name": "Pokémon",
+      "seasons": 19,
+      "episodes": 932,
+      "synopsis": "Cientistas criam o mais forte e poderoso Pokémon do planeta: Mewtwo, um Pokémon com poderes psíquicos. Só que a criatura se rebela, provocando uma batalha contra os maiores treinadores de Pokémon, a fim de conquistar o planeta.",
+      "image_url": "https://cdn.myanimelist.net/images/anime/13/73834t.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/13/73834.jpg",
+      "genres": "Ação, Aventura, Fantasia",
+      "id": 15
+    },
+    {
+      "name": "Yu-Gi-Oh!",
+      "seasons": 5,
+      "episodes": 224,
+      "synopsis": "O jovem estudante do ensino médio Yugi Muto derrota o campeão mundial, Seto Kaiba, em um duelo de cartas com a misteriosa ajuda do quebra-cabeça Millenium. Em razão de sua vitória inesperada, Yugi se torna famoso em todo o mundo e passa a participar de outros duelos para salvar os amigos e a família.",
+      "image_url": "https://cdn.myanimelist.net/images/anime/3/77055.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/3/77055t.jpg",
+      "genres": "Ficção de aventura, Fantasia científica",
+      "id": 16
+    },
+    {
+      "name": "Card Captor Sakura",
+      "seasons": 3,
+      "episodes": 70,
+      "synopsis": " Cardcaptor Sakura conta a história de Sakura Kinomoto, uma garota de 10 anos que liberta acidentalmente um conjunto de cartas mágicas chamadas Cartas Clow. Seu trabalho então, é reunir todas elas antes de essas causarem transtornos à cidade onde ela vive.",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1467/90338.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1467/90338t.jpg",
+      "genres": "Romance, Mahō shōjo",
+      "id": 17
+    },
+    {
+      "name": "Bleach",
+      "seasons": 16,
+      "episodes": 366,
+      "synopsis": "Ichigo Kurosaki nasceu com o dom de ver fantasmas. Quando sua família é atacada por uma alma malévola, Ichigo se torna um Shinigami, dedicando sua vida a proteger os inocentes e ajudando os espíritos torturados a encontrar a paz.",
+      "image_url": "https://cdn.myanimelist.net/images/anime/3/40451t.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/3/40451t.jpg",
+      "genres": "Ficção de aventura, Ficção supernatural",
+      "id": 18
+    },
+    {
+      "name": "Fairy tail",
+      "seasons": 3,
+      "episodes": 328,
+      "synopsis": "A história segue as aventuras de Lucy Heartfilia, uma jovem maga que sonha em se tornar escritora e Natsu Dragneel, um mago adolescente que é membro da popular guilda de feiticeiros Fairy Tail que está a procura do dragão Igneel.",
+      "image_url": "https://cdn.myanimelist.net/images/anime/5/18179t.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/5/18179t.jpg",
+      "genres": "Ação, Aventura, Fantasia, Comédia dramática",
+      "id": 19
     }
   ]
 }
