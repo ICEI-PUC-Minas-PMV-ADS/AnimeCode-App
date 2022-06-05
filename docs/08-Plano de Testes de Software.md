@@ -55,12 +55,12 @@
  |`REQUISITOS ASSOCIADOS`|RF-03	O acesso a lista de animes será permitido apenas, a usuário previamente cadastrados no aplicativo.|
  |`OBJETIVO DO TESTE`| Verificar se o usuário consegue acessar a lista de anime sem cadastro|
  |`MASSA DE TESTE`|Usuário não cadastrado do sistema |
- |`PASSOS`| * Acessar o app <br> * Digitar seu usuário no input de usuário <br> * Digitar sua senha no input de senha <br>|
+ |`PASSOS`| * Acessar o app <br> * Clicar no banner do  <br> * Digitar sua senha no input de senha <br>|
  |`CRITÉRIOS DE ÉXITO`| Emitir alerta de usuário não cadastrado.|
  
  <br>
  
-  |`CASO DE TESTE`| CT07- Exibir os animes na tela home |
+ |`CASO DE TESTE`| CT07- Exibir os animes na tela home |
  |:-----------:|:---------:|
  |`REQUISITOS ASSOCIADOS`|RF-04	O aplicativo deverá apresentar uma tela home com imagem e nota do anime, para visualizar essa tela o usuário não precisa estar logado. Ao clicar na imagem do anime, ele irá exibir um modal com as informações de sinopse, temporadas, episódios.|
  |`OBJETIVO DO TESTE`| Verificar se os itens propostos no requisíto estão disponíveis na tela|
@@ -68,6 +68,24 @@
  |`PASSOS`| * Acessar o app <br> * abrir a tela home <br> * visualizar a exibição do banner do anime com a sua nota <br> * clicar no anime e visualizar as informações de sinopse e temporadas|
  |`CRITÉRIOS DE ÉXITO`| Visualizar essas informações na tela.|
 
+ <br>
+  
+ |`CASO DE TESTE`| CT08- Adicionar um anime a lista |
+ |:-----------:|:---------:|
+ |`REQUISITOS ASSOCIADOS`|RF-05 O usuário poderá criar uma lista pessoal com os animes que ele desejar. |
+ |`OBJETIVO DO TESTE`| Verificar se o anime pode ser adicionado a lista com o status assistido, assistindo e ver futuramente|
+ |`MASSA DE TESTE`|-|
+ |`PASSOS`| * Acessar o app <br> * abrir a tela home <br> * visualizar a exibição do banner do anime com a sua nota <br> * clicar no anime * clicar no botão do coração <br> * clicar no status do anime|
+ |`CRITÉRIOS DE ÉXITO`| Visualizar o anime na lista.|
  
  <br>
+ 
+ |`CASO DE TESTE`| CT09- Visualizar lista de animes do usuário|
+ |:-----------:|:---------:|
+ |`REQUISITOS ASSOCIADOS`|RF-05 O usuário poderá criar uma lista pessoal com os animes que ele desejar. |
+ |`OBJETIVO DO TESTE`| Verificar se o anime pode ser adicionado a lista com o status assistido, assistindo e ver futuramente|
+ |`MASSA DE TESTE`|-|
+ |`PASSOS`| * Acessar o app <br> * abrir a tela home <br> * clicar no perfil do usuário <br> * clicar em minha lista|
+ |`CRITÉRIOS DE ÉXITO`| Visualizar o anime na lista do usuário.|
+ 
 
