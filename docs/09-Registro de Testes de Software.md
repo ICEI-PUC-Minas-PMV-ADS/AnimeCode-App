@@ -30,3 +30,11 @@ https://user-images.githubusercontent.com/78831493/167048469-be9ed928-c36f-423d-
  
 https://user-images.githubusercontent.com/78831493/167048304-4bbe0012-0119-48b7-a0ce-2cf735adbdee.MP4
 
+|`CASO DE TESTE`| CT07- Exibir os animes na tela home |
+|:-----------:|:---------:|
+
+|`CASO DE TESTE`| CT08- Adicionar um anime a lista |
+|:-----------:|:---------:|
+
+|`CASO DE TESTE`| CT09- Visualizar lista de animes do usuário|
+|:-----------:|:---------:|
