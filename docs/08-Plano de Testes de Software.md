@@ -62,7 +62,7 @@
  
   |`CASO DE TESTE`| CT07- Exibir os animes na tela home |
  |:-----------:|:---------:|
- |`REQUISITOS ASSOCIADOS`|RF-04	O aplicativo deverá apresentar uma tela home com imagem e nota do anime, para visualizar essa tela o usuário não precisa estar logado. Ao clicar na imagem do anime, ele irá exibir outra tela com as informações de sinopse e temporadas.|
+ |`REQUISITOS ASSOCIADOS`|RF-04	O aplicativo deverá apresentar uma tela home com imagem e nota do anime, para visualizar essa tela o usuário não precisa estar logado. Ao clicar na imagem do anime, ele irá exibir um modal com as informações de sinopse, temporadas, episódios.|
  |`OBJETIVO DO TESTE`| Verificar se os itens propostos no requisíto estão disponíveis na tela|
  |`MASSA DE TESTE`|-|
  |`PASSOS`| * Acessar o app <br> * abrir a tela home <br> * visualizar a exibição do banner do anime com a sua nota <br> * clicar no anime e visualizar as informações de sinopse e temporadas|
