@@ -6,6 +6,23 @@
       "name": "igor",
       "age": "07/01/2002",
       "id": 1
+    },
+    {
+      "email": "igor2@gmail.com",
+      "password": "$2a$10$XKFGQEcoBVFYX9FP0XIMr.rJSXHOQGjo0OmqAtjtSZiUrvcayWPQi",
+      "name": "igor",
+      "age": "07/01/2002",
+      "id": 2
+    }
+  ],
+  "listAnimeUser": [
+    {
+      "checked": "futuramente",
+      "anime_id": 3,
+      "user_id": 1,
+      "anime_name": "Jujutso Kaisen",
+      "img_url": "https://cdn.myanimelist.net/images/anime/1171/109222.jpg",
+      "id": 1
     }
   ],
   "animes": [
@@ -154,8 +171,8 @@
       "seasons": 19,
       "episodes": 932,
       "synopsis": "Cientistas criam o mais forte e poderoso Pokémon do planeta: Mewtwo, um Pokémon com poderes psíquicos. Só que a criatura se rebela, provocando uma batalha contra os maiores treinadores de Pokémon, a fim de conquistar o planeta.",
-      "image_url": "https://cdn.myanimelist.net/images/anime/13/73834t.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/13/73834.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/13/73834.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/13/73834t.jpg",
       "genres": "Ação, Aventura, Fantasia",
       "id": 15
     },
@@ -184,7 +201,7 @@
       "seasons": 16,
       "episodes": 366,
       "synopsis": "Ichigo Kurosaki nasceu com o dom de ver fantasmas. Quando sua família é atacada por uma alma malévola, Ichigo se torna um Shinigami, dedicando sua vida a proteger os inocentes e ajudando os espíritos torturados a encontrar a paz.",
-      "image_url": "https://cdn.myanimelist.net/images/anime/3/40451t.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/3/40451.jpg",
       "small_image_url": "https://cdn.myanimelist.net/images/anime/3/40451t.jpg",
       "genres": "Ficção de aventura, Ficção supernatural",
       "id": 18
@@ -194,10 +211,50 @@
       "seasons": 3,
       "episodes": 328,
       "synopsis": "A história segue as aventuras de Lucy Heartfilia, uma jovem maga que sonha em se tornar escritora e Natsu Dragneel, um mago adolescente que é membro da popular guilda de feiticeiros Fairy Tail que está a procura do dragão Igneel.",
-      "image_url": "https://cdn.myanimelist.net/images/anime/5/18179t.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/5/18179.jpg",
       "small_image_url": "https://cdn.myanimelist.net/images/anime/5/18179t.jpg",
       "genres": "Ação, Aventura, Fantasia, Comédia dramática",
       "id": 19
+    },
+    {
+      "name": "Kimetsu no Yaiba: Yuukaku-hen",
+      "seasons": 1,
+      "episodes": 11,
+      "synopsis": "A devastação do incidente do Mugen Train ainda pesa muito sobre os membros do Demon Slayer Corps. Apesar de ter tempo para se recuperar, a vida deve continuar, pois os impios nunca dormem: um demônio cruel está aterrorizando as mulheres sedutoras do Yoshiwara Entertainment District. O Pilar do Som, Tengen Uzui, e suas três esposas estão no caso. No entanto, quando ele logo perde o contato com seus cônjuges, Tengen teme o pior e pede a ajuda de Tanjirou Kamado, Zenitsu Agatsuma e Inosuke Hashibira para se infiltrar nas casas mais proeminentes do distrito e localizar o depravado demônio do Rank Superior.",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1908/120036.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1908/120036t.jpg",
+      "genres": "Ação, Sobrenarutal",
+      "id": 20
+    },
+    {
+      "name": "Yu-Gi-Oh! The Dark Side of Dimensions",
+      "seasons": 1,
+      "episodes": 1,
+      "synopsis": "Obcecado por vingança contra o Rei dos Jogos, Seto Kaiba inicia uma escavação no Egito para encontrar os fragmentos do Quebra-cabeça do Milênio, que antes retinha o espírito da 'contraparte Yugi'. No entanto, um homem encapuzado rouba duas peças do quebra-cabeça e desaparece antes que ele pudesse ser reconstruído. Enquanto isso, agora no último ano do ensino médio, Yuugi Mutou e seus amigos planejam seu futuro, sem saber do perigo que espreita por perto. Yu☆Gi☆Oh! The Dark Side of Dimensions conta a história de forças vingativas que distorcem a realidade da maneira que bem entendem. Será que Seto e Yuugi vão superar suas diferenças e salvar o mundo, ou será que a ganância do próprio Seto vai levar a melhor sobre ele?",
+      "image_url": "https://cdn.myanimelist.net/images/anime/12/77614.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/12/77614t.jpg",
+      "genres": "Aventura, Fantasia",
+      "id": 21
+    },
+    {
+      "name": "Kimetsu no Yaiba Movie: Mugen Ressha-hen",
+      "seasons": 1,
+      "episodes": 1,
+      "synopsis": "Depois que uma série de desaparecimentos misteriosos começam a assolar um trem, as múltiplas tentativas do Demon Slayer Corps para remediar o problema se mostram infrutíferas. Para evitar mais baixas, o pilar de chamas, Kyoujurou Rengoku, assume a responsabilidade de eliminar a ameaça. Acompanhando-o estão alguns dos novos sangues mais promissores do Corpo: Tanjirou Kamado, Zenitsu Agatsuma e Inosuke Hashibira, que esperam testemunhar os feitos de fogo deste modelo de matador de demônios em primeira mão. Sem o conhecimento deles, as forças demoníacas responsáveis pelos desaparecimentos já colocaram seu plano sinistro em ação. Sob esta presença demoníaca, o grupo deve reunir cada grama de sua força de vontade e desembainhar suas espadas para salvar todos os duzentos passageiros a bordo. Kimetsu no Yaiba Filme: Mugen Ressha-hen investiga os cantos mais profundos da mente de Tanjirou, colocando sua determinação e compromisso com o dever à prova.",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1704/106947.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1704/106947t.jpg",
+      "genres": "Ação, Sobrenatural",
+      "id": 22
+    },
+    {
+      "name": "Kimetsu no Yaiba: Mugen Ressha-hen",
+      "seasons": 1,
+      "episodes": 7,
+      "synopsis": "Uma sequência misteriosa de desaparecimentos em um certo trem chamou a atenção do Demon Slayer Corps, e eles enviaram um dos seus melhores para exterminar o que só pode ser um demônio responsável. No entanto, o plano de embarcar no trem Mugen é atrasado por um demônio inferior que está aterrorizando os mecânicos e mirando em uma senhora idosa e sua neta. Kyoujurou Rengoku, o Pilar da Chama, deve eliminar a ameaça antes de embarcar no trem. Enviados para auxiliar o Pilar, Tanjirou Kamado, Inosuke Hashibira e Zenitsu Agatsuma entram no trem preparados para lutar. Mas seu alvo monstruoso já tem um plano tortuoso guardado para eles e os duzentos passageiros; ao mergulhar profundamente em suas consciências, o demônio pretende obliterar a todos em uma exibição impressionante do poder das Doze Luas Demoníacas.",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1065/118763.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1065/118763t.jpg",
+      "genres": "Ação, Sobrenatural",
+      "id": 23
     }
   ]
 }

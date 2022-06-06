@@ -13,6 +13,16 @@ Content-Type: application/json
     "password": "123igor"
 }
 
+
+###
+POST http://localhost:3000/listAnimeUser
+Content-Type: application/json
+
+{
+ "user_id": 1,
+ "anime_id": 1,
+}
+
 # ANIMES
 
 ### Retornar animes do banco
@@ -23,13 +33,13 @@ POST http://localhost:3000/animes
 Content-Type: application/json
 
 {
-    "name": "Jujutso Kaisen",
+    "name": "Kimetsu no Yaiba: Mugen Ressha-hen",
     "seasons": 1,
-    "episodes": 24,
-    "synopsis": "Sofrimento, arrependimento, vergonha: os sentimentos negativos dos humanos tornam-se Maldições, causando terríveis acidentes que podem levar até mesmo à morte. E pra piorar, Maldições só podem ser exorcizadas por outras Maldições. Certo dia, para salvar amigos que estavam sendo atacados por Maldições, Yuji Itadori engole o dedo do Ryomen-Sukuna, absorvendo sua Maldição. Ele então decide se matricular no Colégio Técnico de Feitiçaria de Tóquio, uma organização que combate as Maldições... e assim começa a heróica lenda do garoto que tornou-se uma Maldição para exorcizar uma Maldição.",
-    "image_url": "https://cdn.myanimelist.net/images/anime/1171/109222.jpg",
-    "small_image_url": "https://cdn.myanimelist.net/images/anime/1171/109222t.jpg",
-    "genres": "Exorcismo, terror"
+    "episodes": 7,
+    "synopsis": "Uma sequência misteriosa de desaparecimentos em um certo trem chamou a atenção do Demon Slayer Corps, e eles enviaram um dos seus melhores para exterminar o que só pode ser um demônio responsável. No entanto, o plano de embarcar no trem Mugen é atrasado por um demônio inferior que está aterrorizando os mecânicos e mirando em uma senhora idosa e sua neta. Kyoujurou Rengoku, o Pilar da Chama, deve eliminar a ameaça antes de embarcar no trem. Enviados para auxiliar o Pilar, Tanjirou Kamado, Inosuke Hashibira e Zenitsu Agatsuma entram no trem preparados para lutar. Mas seu alvo monstruoso já tem um plano tortuoso guardado para eles e os duzentos passageiros; ao mergulhar profundamente em suas consciências, o demônio pretende obliterar a todos em uma exibição impressionante do poder das Doze Luas Demoníacas.",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1065/118763.jpg",
+    "small_image_url": "https://cdn.myanimelist.net/images/anime/1065/118763t.jpg",
+    "genres": "Ação, Sobrenatural"
 }
 
 ### Atualização de Informações dos animes
