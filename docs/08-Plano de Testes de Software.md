@@ -74,9 +74,22 @@
  |`CASO DE TESTE`| CT09- Visualizar lista de animes do usuário|
  |:-----------:|:---------:|
  |`REQUISITOS ASSOCIADOS`|RF-05 O usuário poderá criar uma lista pessoal com os animes que ele desejar. |
- |`OBJETIVO DO TESTE`| Verificar se o anime pode ser adicionado a lista com o status assistido, assistindo e ver futuramente|
+ |`OBJETIVO DO TESTE`| Verificar se os anime pode ser adicionados, são exibidos na lista corretamente|
  |`MASSA DE TESTE`|-|
  |`PASSOS`| * Acessar o app <br> * abrir a tela home <br> * clicar no perfil do usuário <br> * clicar em minha lista|
  |`CRITÉRIOS DE ÉXITO`| Visualizar o anime na lista do usuário.|
+ 
+ <br>
+ 
+  
+ |`CASO DE TESTE`| CT10 - Realizar a busca de um anime|
+ |:-----------:|:---------:|
+ |`REQUISITOS ASSOCIADOS`|RF-05 O usuário poderá criar uma lista pessoal com os animes que ele desejar. |
+ |`OBJETIVO DO TESTE`| Verificar se é possível encontrar um anime apartir do inpute de busca|
+ |`MASSA DE TESTE`|-|
+ |`PASSOS`| * Acessar o app <br> * abrir a tela home <br> * clicar em buscar anime <br> * digite "naruto" * os animes referentes a pesquisa devem ser exibidos|
+ |`CRITÉRIOS DE ÉXITO`| Visualizar os animes referentes a pesquisa do usuário|
+ 
+ 
  
 
