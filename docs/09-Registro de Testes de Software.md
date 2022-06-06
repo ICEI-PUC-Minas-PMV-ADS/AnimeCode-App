@@ -22,19 +22,20 @@ https://user-images.githubusercontent.com/78181968/167319184-4ab37e41-fa77-4b9d-
 
 https://user-images.githubusercontent.com/78831493/167048469-be9ed928-c36f-423d-bcfe-f6e27d561de7.MP4
 
-|`CASO DE TESTE`| CT05 Acesso a "Minha Lista" para usuário não cadastrado no sistema|
-|:-----------:|:---------:|
- 
+
 |`CASO DE TESTE`| CT06 Alteração de senha de usuário já cadastrado|
 |:-----------:|:---------:|
  
 https://user-images.githubusercontent.com/78831493/167048304-4bbe0012-0119-48b7-a0ce-2cf735adbdee.MP4
 
-|`CASO DE TESTE`| CT07- Exibir os animes na tela home |
+|`CASO DE TESTE`| CT07- Exibir os animes na tela de busca |
 |:-----------:|:---------:|
 
 |`CASO DE TESTE`| CT08- Adicionar um anime a lista |
 |:-----------:|:---------:|
 
 |`CASO DE TESTE`| CT09- Visualizar lista de animes do usuário|
+|:-----------:|:---------:|
+
+|`CASO DE TESTE`| CT10 - Realizar a busca de um anime|
 |:-----------:|:---------:|
