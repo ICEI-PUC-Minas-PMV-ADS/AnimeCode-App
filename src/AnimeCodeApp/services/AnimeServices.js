@@ -79,9 +79,9 @@ export const updateProgressAnime = async (id, params) => {
   }
 };
 
-export const searchUserListAnime = async (params) => {
+export const searchUserListAnime = async (id ) => {
   try {
-    return await API.get(`${url_base}listAnimeUser`, params).then((response) => {
+    return await API.get(`${url_base}listAnimeUser?user_id=${id}`).then((response) => {
       return response.data;
     });
   } catch (error) {

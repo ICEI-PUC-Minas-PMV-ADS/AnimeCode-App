@@ -14,8 +14,8 @@ import {login} from '../services/auth_service'
 const Login = () => {
   const navigation = useNavigation();
 
-  const {setSigned, setName} = useUser()
-
+  const {setSigned, setName, setId} = useUser()
+  
   const [email ,setEmail] = useState('igor@gmail.com')
   const [password ,setPassword] = useState('igor123')
   
@@ -29,6 +29,7 @@ const Login = () => {
       if (res && res.user) {
         setSigned(true)
         setName(res.user.name)
+        setId(res.user.id)
         navigation.navigate("Home")         
       } else {
         Alert.alert(

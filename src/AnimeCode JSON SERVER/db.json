@@ -8,21 +8,55 @@
       "id": 1
     },
     {
-      "email": "igor2@gmail.com",
-      "password": "$2a$10$XKFGQEcoBVFYX9FP0XIMr.rJSXHOQGjo0OmqAtjtSZiUrvcayWPQi",
-      "name": "igor",
-      "age": "07/01/2002",
+      "email": "suycure@outlook.com",
+      "password": "$2a$10$Jm2tOA3fy1.CdGiiAr8qveSSnaPQ5vA1nE6c4s/5mp/LytBII4c7q",
+      "name": "Giyu Tomioka",
+      "age": "23/10/1999",
       "id": 2
     }
   ],
   "listAnimeUser": [
     {
-      "checked": "futuramente",
-      "anime_id": 3,
+      "checked": "finalizado",
       "user_id": 1,
       "anime_name": "Jujutso Kaisen",
-      "img_url": "https://cdn.myanimelist.net/images/anime/1171/109222.jpg",
-      "id": 1
+      "imageAnime_url": "https://cdn.myanimelist.net/images/anime/1171/109222.jpg",
+      "seasons": "5",
+      "episodes": "5",
+      "id": 2
+    },
+    {
+      "checked": "futuramente",
+      "user_id": 1,
+      "anime_name": "Fullmetal Alchemist",
+      "imageAnime_url": "https://cdn.myanimelist.net/images/anime/10/75815.jpg",
+      "seasons": "5",
+      "episodes": "5",
+      "id": 3
+    },
+    {
+      "checked": "finalizado",
+      "anime_id": 1,
+      "user_id": 2,
+      "anime_name": "Kimetsu no Yaiba",
+      "imageAnime_url": "https://cdn.myanimelist.net/images/anime/1286/99889.jpg",
+      "id": 4
+    },
+    {
+      "checked": "finalizado",
+      "anime_id": 1,
+      "user_id": 1,
+      "anime_name": "Kimetsu no Yaiba",
+      "imageAnime_url": "https://cdn.myanimelist.net/images/anime/1286/99889.jpg",
+      "id": 5
+    },
+    {
+      "checked": "assistindo",
+      "anime_id": 6,
+      "user_id": 1,
+      "anime_name": "Akame ga kill",
+      "imageAnime_url": "https://cdn.myanimelist.net/images/anime/1429/95946.jpg",
+      "id": 7
     }
   ],
   "animes": [

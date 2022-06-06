@@ -1,1 +1,0 @@
-export const url_base = "https://public-rocks-invent-138-0-174-232.loca.lt/"

@@ -1,10 +1,9 @@
 import API from './webApi_service'
-
-let url = "https://evil-rooms-judge-170-79-53-228.loca.lt/"
+import {url_base} from './Url_base'
 
 export const register = async (param) => {
   try {
-    return await API.post( url + `register`, param).then(
+    return await API.post( url_base + `register`, param).then(
       response => {
         return response.data
       },
@@ -21,7 +20,7 @@ export const register = async (param) => {
 
 export const login = async (param) => {
   try {
-    return await API.post( url +`login` , param).then(
+    return await API.post( url_base +`login` , param).then(
        response => {
         return response.data
       },
@@ -38,7 +37,7 @@ export const login = async (param) => {
 
 export const changePassword = async (param) => {
   try{
-    return await API.put( url + `users/1`, param).then(     
+    return await API.put( url_base + `users/1`, param).then(     
       response => {
         return response.data
       },
