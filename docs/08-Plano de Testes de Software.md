@@ -37,16 +37,7 @@
  |`MASSA DE TESTE`|Usuário teste cadastrado do sistema |
  |`PASSOS`| * Acessar o app <br> * Digitar seu usuário no input de usuário <br> * Digitar sua senha no input de senha <br>|
  |`CRITÉRIOS DE ÉXITO`| Emitir alerta de erro ao realizar login.|
- 
- <br>
- 
- |`CASO DE TESTE`| CT05 Alteração de senha de usuário já cadastrado|
- |:-----------:|:---------:|
- |`REQUISITOS ASSOCIADOS`|RF-09 O aplicativo deverá permitir o cadastro de um e-mail por usuário|
- |`OBJETIVO DO TESTE`| Verificar se o usuário consegue recadastrar uma nova senha para se autenticar|
- |`MASSA DE TESTE`|Usuário cadastrado no sistema |
- |`PASSOS`| ?|
- |`CRITÉRIOS DE ÉXITO`| Emitir alerta de troca de senha com sucesso|
+
  
  <br>
  
@@ -60,7 +51,7 @@
  
  <br>
  
- |`CASO DE TESTE`| CT07- Exibir os animes na tela home |
+ |`CASO DE TESTE`| CT07- Exibir os animes na tela de busca |
  |:-----------:|:---------:|
  |`REQUISITOS ASSOCIADOS`|RF-04	O aplicativo deverá apresentar uma tela home com imagem e nota do anime, para visualizar essa tela o usuário não precisa estar logado. Ao clicar na imagem do anime, ele irá exibir um modal com as informações de sinopse, temporadas, episódios.|
  |`OBJETIVO DO TESTE`| Verificar se os itens propostos no requisíto estão disponíveis na tela|
